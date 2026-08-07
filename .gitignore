@@ -25,6 +25,7 @@ pip-delete-this-directory.txt
 
 # SQL Dumps (large files)
 *.sql
+!database/schema.sql
 *.sql.gz
 *.sql.zip
 
