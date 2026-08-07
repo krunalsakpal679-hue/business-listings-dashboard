@@ -83,10 +83,10 @@ def generate_listings(count=550):
     
     listings = []
     
-    # We want a fairly even split across categories and cities
+    # We want an organic, randomized distribution across categories and cities
     for i in range(count):
-        category = categories[i % len(categories)]
-        city = cities[i % len(cities)]
+        category = random.choice(categories)
+        city = random.choice(cities)
         
         # Generate realistic business name based on category
         business_name = random.choice(name_templates[category])()
