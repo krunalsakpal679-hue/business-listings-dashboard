@@ -48,8 +48,6 @@ The **Business Listings Dashboard** is a full-stack, data-driven web application
     App.css                 # Premium CSS UI styles
     main.jsx                # Entrypoint file
 /docs
-  scraping_approach.md      # Data collection approach documentation
-  demo_video_script.md      # Demo video timeline outline script
 README.md
 .gitignore
 ```
@@ -207,7 +205,6 @@ The data pipeline utilizes a dual approach:
 2.  **Safety-First Web Scraper**: We implemented a proof-of-concept scraper (`scrape_sample.py`) using `requests` and `BeautifulSoup`. The scraper evaluates target `robots.txt` rules using `urllib.robotparser`. If access is disallowed (as is the case with most production directories like YellowPages), the script logs the rule violation and exits gracefully instead of violating policies or getting blocked.
 3.  **Production Migration Path**: In production, the system can seamlessly transition to the official **Google Places API** by utilizing queries (e.g. `query="gyms in Mumbai"`), resolving paginated results, and caching records inside our MySQL cache layer to avoid redundant API fees.
 
-*For more details, see [docs/scraping_approach.md](file:///c:/Internship/docs/scraping_approach.md).*
 
 ---
 
