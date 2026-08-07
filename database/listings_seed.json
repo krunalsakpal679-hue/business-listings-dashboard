@@ -1,0 +1,4402 @@
+[
+  {
+    "business_name": "Bath Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 31, Chaudhry Nagar, Panihati 507856",
+    "phone": "+91 79242 81921",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 840, Bains Circle, Tiruvottiyur-202812",
+    "phone": "+91 90663 67592",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "932, Dada Ganj, Jaunpur-689815",
+    "phone": "059-22822109",
+    "source": "Google"
+  },
+  {
+    "business_name": "Nilima's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "78, Chakraborty Chowk, Bhalswa Jahangir Pur-422825",
+    "phone": "+91 89885 45168",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tap & Pipe Solutions",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 13, Hayre Marg, Gurgaon 961723",
+    "phone": "+91 75971 24001",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 696, Behl Circle, Sirsa-842709",
+    "phone": "071-27547740",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mahal Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "",
+    "phone": "+91 92551 38067",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 810, Basak Circle, Mathura-762608",
+    "phone": "047-27062619",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Daksh Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "410, Pandey Street, Karimnagar-828878",
+    "phone": "052-23587577",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 56, Chadha Zila, Tadipatri 631915",
+    "phone": "+91 72732 48841",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "64/236, Apte Zila, Mathura 857750",
+    "phone": "+91 72989 58242",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 94, Barman Nagar, Bathinda 847458",
+    "phone": "+91 94819 54350",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 93, Modi Circle, Nagaon-903125",
+    "phone": "+91 73674 58358",
+    "source": "Google"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 79, Ganesan Road, Pudukkottai-465323",
+    "phone": "+91 75319 67052",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Nori Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "872, Madan Nagar, Mehsana-851915",
+    "phone": "+91 83579 23718",
+    "source": "Google"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "690, Dara Nagar, Pudukkottai 924897",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 49, Bhatti Nagar, Sambalpur-110286",
+    "phone": "+91 86340 64686",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "49, Walla Chowk, Navi Mumbai 809291",
+    "phone": "",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 10, Vala, Varanasi 691234",
+    "phone": "+91 85402 77964",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mumbai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 56, Sethi Chowk, Mau 870057",
+    "phone": "058-27900995",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 94, Mand Zila, Eluru 247839",
+    "phone": "+91 87702 66143",
+    "source": "Google"
+  },
+  {
+    "business_name": "Lavanya's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 695, Murthy, Dehri-747667",
+    "phone": "+91 77371 29293",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mumbai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "69/84, Krishnamurthy Circle, Kharagpur 301069",
+    "phone": "+91 72474 21898",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 320, Khosla Marg, Karimnagar-302163",
+    "phone": "+91 83479 11239",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dr. Gabriel's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 196, Manda Ganj, Bangalore 174918",
+    "phone": "+91 87678 36233",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Sura Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "03/632, Agate Marg, Yamunanagar-747138",
+    "phone": "+91 99011 29199",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "",
+    "phone": "080-20910176",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "863, Bir Ganj, Phagwara-834753",
+    "phone": "+91 76681 27091",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "92/712, Ramesh Chowk, Suryapet 360946",
+    "phone": "026-29595676",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tap & Pipe Solutions",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "",
+    "phone": "+91 86662 93181",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "180, Bawa Chowk, Gaya 485273",
+    "phone": "+91 75288 11145",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "William's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "13/94, Andra Circle, Raipur-004512",
+    "phone": "+91 77897 40093",
+    "source": "Google"
+  },
+  {
+    "business_name": "Walla Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "43/20, Rout Street, Purnia 052041",
+    "phone": "+91 88091 47981",
+    "source": "Google"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 318, Mutti Street, Fatehpur 692837",
+    "phone": "037-24122453",
+    "source": "Google"
+  },
+  {
+    "business_name": "Khanna Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "74/455, Patla Ganj, Mira-Bhayandar-797955",
+    "phone": "063-26306729",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Basak Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "20/07, Rai Road, Tumkur 178684",
+    "phone": "+91 83649 22538",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Toor Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 12, Nayak Zila, Dehri-660699",
+    "phone": "030-20349321",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bera Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "75/68, Gill Path, Rajahmundry 627981",
+    "phone": "+91 79256 94643",
+    "source": "Google"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "03/005, Buch Nagar, Jalandhar 200262",
+    "phone": "+91 96421 45898",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "32/31, Mahal Zila, Surat-770291",
+    "phone": "+91 84453 60813",
+    "source": "Google"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 527, Raj Ganj, Mathura 938999",
+    "phone": "+91 78709 71824",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "29/76, Contractor Road, Hajipur-308773",
+    "phone": "+91 81884 90576",
+    "source": "Google"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 008, Gole Chowk, Kavali 706769",
+    "phone": "+91 88791 20117",
+    "source": "Google"
+  },
+  {
+    "business_name": "Unni Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "48, Bhavsar Chowk, Srikakulam-633140",
+    "phone": "+91 98303 43575",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Thaman Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "07/91, Kale Nagar, Malda-506640",
+    "phone": "+91 73649 79412",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 341, Raja Circle, Aurangabad 862614",
+    "phone": "+91 88587 35689",
+    "source": "Google"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "80/62, Bhat Chowk, Nandyal 909811",
+    "phone": "+91 83006 80313",
+    "source": "Google"
+  },
+  {
+    "business_name": "Parikh Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 504, Krishnamurthy Road, Nashik-409634",
+    "phone": "056-28284348",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "",
+    "phone": "+91 73116 84451",
+    "source": "Google"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 32, Thakur Road, Sangli-Miraj & Kupwad 888690",
+    "phone": "+91 96253 99501",
+    "source": "Google"
+  },
+  {
+    "business_name": "Sai's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 085, Ahuja, Bijapur-534577",
+    "phone": "+91 98582 70901",
+    "source": "Google"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "27/779, Dayal Zila, Aizawl 254597",
+    "phone": "+91 98502 25587",
+    "source": "Google"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "04/937, Randhawa Road, Ongole-368781",
+    "phone": "+91 82331 64717",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "",
+    "phone": "+91 85738 75034",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Michael's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 68, Yadav Circle, Tinsukia-829702",
+    "phone": "041-23560966",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dr. Anamika's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 519, Kakar, Kadapa 216354",
+    "phone": "+91 82679 83570",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "32/773, Kapadia Path, North Dumdum-257919",
+    "phone": "059-21499242",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bachittar Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "08, Golla Ganj, Meerut 670317",
+    "phone": "+91 93138 64674",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bhavika's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "08, Baria Street, Visakhapatnam 576438",
+    "phone": "+91 99089 67705",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bassi Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 999, Sethi Circle, Satna-179631",
+    "phone": "+91 95813 42230",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 135, Johal Street, Hazaribagh 280026",
+    "phone": "+91 72234 15270",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "35/70, Mann Chowk, Vijayanagaram-115127",
+    "phone": "+91 75564 86948",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "26, Pathak Nagar, Katihar 853017",
+    "phone": "+91 80340 90746",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Manya's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "89, Chander Marg, Ahmedabad 941005",
+    "phone": "+91 77717 26935",
+    "source": "Google"
+  },
+  {
+    "business_name": "Triveni's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "11, Kara Nagar, Tadipatri-412855",
+    "phone": "+91 88377 57438",
+    "source": "Google"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "48/509, Dugal Street, New Delhi-442992",
+    "phone": "+91 99076 59237",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Ranveer Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 754, Suresh Chowk, Medininagar 720294",
+    "phone": "+91 83498 24635",
+    "source": "Google"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "85/718, Chowdhury, Madurai 925378",
+    "phone": "+91 79869 73970",
+    "source": "Google"
+  },
+  {
+    "business_name": "Kolkata Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "322, Chaudhuri Circle, Bhimavaram 252483",
+    "phone": "+91 78596 78459",
+    "source": "Google"
+  },
+  {
+    "business_name": "Frederick Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "02, Bhandari Path, Medininagar-095507",
+    "phone": "+91 80305 52534",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Parikh Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "74/685, Dube Circle, Madurai 124298",
+    "phone": "+91 86997 73426",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "",
+    "phone": "075-20639138",
+    "source": "Google"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "575, Goyal Path, Firozabad-629924",
+    "phone": "+91 96555 38208",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "18/577, Trivedi, Bhilwara-810772",
+    "phone": "072-24322656",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bail Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "62/93, Sharma Ganj, Fatehpur-672866",
+    "phone": "+91 75122 35763",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "56/89, Pandey Street, Jalandhar 746967",
+    "phone": "+91 92762 88672",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bengaluru Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 432, Bhatnagar Zila, Surendranagar Dudhrej-292602",
+    "phone": "+91 71815 24459",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Baral Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "10/733, Handa Street, Ambarnath-840526",
+    "phone": "+91 82047 63083",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 21, Bumb Ganj, Latur-457072",
+    "phone": "+91 81164 71771",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 886, Lad Marg, Hajipur-778123",
+    "phone": "+91 87842 88159",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "398, Kanda Road, Kanpur 973104",
+    "phone": "+91 81967 52331",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dr. Balvan's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 01, Shere Road, Mango 750603",
+    "phone": "+91 93173 89183",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Hyderabad Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 076, Gill Ganj, New Delhi-919613",
+    "phone": "",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 390, Apte Ganj, Panihati-021813",
+    "phone": "079-26302410",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 755, Sridhar Circle, Kollam-413172",
+    "phone": "+91 92750 46132",
+    "source": "Google"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 220, Kapadia Nagar, Chinsurah 449813",
+    "phone": "076-23828480",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Lipika Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 44, Upadhyay Road, Kochi 307795",
+    "phone": "038-29271775",
+    "source": "Google"
+  },
+  {
+    "business_name": "Mumbai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 66, Chadha Ganj, Sultan Pur Majra-922456",
+    "phone": "+91 70873 70339",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Prabhakar Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 742, Ray Marg, Latur 813253",
+    "phone": "065-28416344",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Radhakrishnan Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 49, Mandal Road, Tirunelveli-773902",
+    "phone": "+91 89959 25309",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Fitan's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "043, Pillay Path, Mysore 691257",
+    "phone": "+91 89809 87739",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "416, Sabharwal Nagar, Nagercoil-097518",
+    "phone": "+91 97554 66988",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tap & Pipe Solutions",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "716, Verma Path, Jamalpur 365996",
+    "phone": "038-23215036",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "10/110, Dar Street, Chennai 503174",
+    "phone": "055-23812912",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "67, Puri Nagar, Katni-376982",
+    "phone": "+91 90714 61602",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Anjali Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 763, Parekh Road, Jalgaon 769734",
+    "phone": "+91 97698 52563",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Hari Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "577, Bir Street, Bokaro 036442",
+    "phone": "045-29891786",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "09/28, Master Marg, Durg 073849",
+    "phone": "",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Daksha's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "049, Halder Ganj, Agartala-287475",
+    "phone": "+91 81600 29058",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "67/38, Randhawa Chowk, Bardhaman-489336",
+    "phone": "+91 98745 44005",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Chowdhury Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 945, Chhabra Chowk, Srinagar-469886",
+    "phone": "+91 96639 25034",
+    "source": "Google"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "26/20, Bedi Zila, Lucknow 880513",
+    "phone": "+91 88657 34209",
+    "source": "Google"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "43/407, Patel Zila, Vasai-Virar-311476",
+    "phone": "+91 95273 61022",
+    "source": "Google"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "13/92, Rege Road, Nashik 459245",
+    "phone": "048-27265269",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sankar Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 11, Bhasin Path, Mango 943075",
+    "phone": "+91 73248 79119",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 68, Mannan Marg, Siwan-350890",
+    "phone": "044-27781094",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Panini Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "09/33, Badami, Parbhani 544173",
+    "phone": "+91 70881 34213",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Nanda Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "08/091, Borde Circle, Phagwara-633120",
+    "phone": "044-26576806",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "97/17, Bhalla Circle, Sambhal-158647",
+    "phone": "+91 77665 64300",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "700, Vala, Sikar-626799",
+    "phone": "+91 92830 88890",
+    "source": "Google"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "01/976, Varughese Path, Dhanbad-124217",
+    "phone": "053-21676923",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Mumbai Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "42/204, Sura Circle, Alwar 126851",
+    "phone": "026-21682594",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dhingra Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 17, Kadakia Street, Pune 180630",
+    "phone": "+91 86739 81704",
+    "source": "Google"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "24/503, Balan Circle, Madhyamgram-457144",
+    "phone": "+91 89841 25171",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "17, Lall Nagar, Solapur-789121",
+    "phone": "+91 95924 10941",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 306, Ahluwalia Path, Patiala-436086",
+    "phone": "+91 73788 87925",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "90/24, Choudhury Nagar, Erode 422110",
+    "phone": "+91 87893 76749",
+    "source": "Google"
+  },
+  {
+    "business_name": "Hayer Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 92, Swaminathan Nagar, Proddatur 291217",
+    "phone": "+91 96049 49892",
+    "source": "Google"
+  },
+  {
+    "business_name": "Joshi Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 65, Keer Zila, Bikaner-825897",
+    "phone": "+91 99789 51712",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Kapadia Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "783, Srivastava Ganj, Srikakulam-724517",
+    "phone": "+91 88980 30517",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bali Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "32/592, Badami Nagar, Panvel 913007",
+    "phone": "+91 73366 23787",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tap & Pipe Solutions",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "91/32, Reddy Road, Firozabad-992256",
+    "phone": "+91 98993 84559",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Kolkata Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "94, Nagy Street, Bidar 997419",
+    "phone": "+91 88120 57860",
+    "source": "Google"
+  },
+  {
+    "business_name": "Chaudhry Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 45, Basu Marg, Patiala 334314",
+    "phone": "+91 84293 76913",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "65/575, Reddy Circle, Jhansi-294126",
+    "phone": "+91 98056 24359",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "65, Kala Zila, Satna 246875",
+    "phone": "+91 85912 98665",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dara Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 670, Rana Path, Naihati-829410",
+    "phone": "+91 95691 54099",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Wishi Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 85, Bandi Street, Mahbubnagar-228969",
+    "phone": "+91 70574 10133",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bedi Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "",
+    "phone": "+91 74684 69181",
+    "source": "Google"
+  },
+  {
+    "business_name": "Karan's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "58/02, Bhatt Nagar, Naihati 985949",
+    "phone": "+91 96361 72590",
+    "source": "Google"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "11/364, Natarajan, Bhimavaram 895641",
+    "phone": "+91 77646 93319",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "329, D’Alia Ganj, Chinsurah 876392",
+    "phone": "+91 93222 76081",
+    "source": "Google"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 47, Hari Circle, Panvel 261370",
+    "phone": "+91 72833 16556",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Keer Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "26/51, Cheema Marg, Sangli-Miraj & Kupwad 510440",
+    "phone": "022-25158525",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "38, Mander Street, Shahjahanpur 528419",
+    "phone": "+91 79941 47740",
+    "source": "Google"
+  },
+  {
+    "business_name": "Jagat's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "44/72, Kuruvilla Nagar, Firozabad 525941",
+    "phone": "069-29665556",
+    "source": "Google"
+  },
+  {
+    "business_name": "Randhawa Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "494, Sahni Circle, Guna-572788",
+    "phone": "+91 77832 45077",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tiwari Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 28, Murty Chowk, Gulbarga 498575",
+    "phone": "+91 86074 38610",
+    "source": "Google"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "34/71, Swaminathan Ganj, Madurai 214992",
+    "phone": "+91 84347 28413",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Khosla Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "865, Patel, Sirsa 903654",
+    "phone": "+91 93143 40584",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 01, Soman Street, Alappuzha 976440",
+    "phone": "+91 72758 75208",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "73/840, Bedi Chowk, Surat-830163",
+    "phone": "+91 77675 40195",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 46, Andra Path, Bidar 084739",
+    "phone": "+91 91913 31038",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 938, Mammen Marg, Avadi 177530",
+    "phone": "055-23130937",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Ahmedabad Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "20/075, Sarna, Guwahati-960483",
+    "phone": "+91 97285 98880",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Loke Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 517, Misra Circle, Berhampore-635977",
+    "phone": "073-25883182",
+    "source": "Google"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 37, Nadkarni Road, Deoghar-492575",
+    "phone": "+91 87048 92682",
+    "source": "Google"
+  },
+  {
+    "business_name": "Borah Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "21, Tailor Nagar, Ahmedabad-803003",
+    "phone": "+91 83537 17442",
+    "source": "Google"
+  },
+  {
+    "business_name": "Hritik's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "360, Manda Circle, Haridwar 931248",
+    "phone": "041-24751768",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "963, Mittal Chowk, Bulandshahr-613903",
+    "phone": "+91 90086 44926",
+    "source": "Google"
+  },
+  {
+    "business_name": "Om Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "92/26, Srinivasan Road, Durgapur-971697",
+    "phone": "+91 88313 41434",
+    "source": "Google"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "18/35, Divan Circle, Kulti 113764",
+    "phone": "+91 95029 57078",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dr. Ishaan's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "48/674, Amble Path, Ramgarh-351449",
+    "phone": "+91 70843 63202",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "17, Reddy Ganj, Bilaspur-981131",
+    "phone": "059-29883346",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "35, Vala Chowk, Mumbai-875313",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Loke Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 84, Bir Marg, Jaipur-055334",
+    "phone": "+91 96713 36939",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 903, Chawla Street, Kakinada 537804",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 387, Keer Nagar, Thrissur-846772",
+    "phone": "+91 76405 12808",
+    "source": "Google"
+  },
+  {
+    "business_name": "Nirja Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "98, Divan Road, Aurangabad-348267",
+    "phone": "052-24693129",
+    "source": "Google"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "60/010, Lata Chowk, Narasaraopet 357975",
+    "phone": "+91 84479 16123",
+    "source": "Google"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "28/725, Pai Chowk, Darbhanga 689033",
+    "phone": "078-29329088",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bengaluru Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "",
+    "phone": "+91 92176 53329",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Chaudhari Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "02, Ravel Ganj, Giridih 843625",
+    "phone": "+91 80373 79670",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 40, Kuruvilla Zila, Ranchi 943426",
+    "phone": "+91 77660 53192",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "",
+    "phone": "025-22818717",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "665, Chacko Circle, Jhansi-346705",
+    "phone": "+91 98151 93263",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "24/32, Venkatesh Chowk, Bhiwani-636925",
+    "phone": "+91 86671 25575",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Yash Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "10, Dayal Street, Gurgaon-651640",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dr. Leela's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "93/842, Dixit Chowk, North Dumdum-957403",
+    "phone": "032-20943445",
+    "source": "Google"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 655, Batra Circle, Bangalore-845377",
+    "phone": "+91 84289 64975",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "61/62, Om, Guna 589171",
+    "phone": "033-21617087",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "71/199, Salvi Street, Kulti-123764",
+    "phone": "047-26389999",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mander Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 13, Sheth Nagar, Tiruppur 858673",
+    "phone": "+91 97510 83882",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 73, Kapur Zila, Madhyamgram 773849",
+    "phone": "+91 75761 78317",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "80/183, Sen Chowk, Bhagalpur-555304",
+    "phone": "+91 76438 10645",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 218, Rau Circle, Berhampore-074257",
+    "phone": "+91 99458 10573",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Yadavi Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 15, Balakrishnan Nagar, Bhilai-540542",
+    "phone": "+91 70096 13580",
+    "source": "Google"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "53/631, Sundaram, Cuttack-687493",
+    "phone": "+91 79034 40151",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Simon Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "98, Khurana Ganj, Suryapet-918697",
+    "phone": "+91 85236 13849",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 031, Kapoor, Nagercoil-128450",
+    "phone": "",
+    "source": "Google"
+  },
+  {
+    "business_name": "Veda Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "12/09, Yogi Street, Ranchi-609490",
+    "phone": "+91 94692 86349",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Chander Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "972, Saxena, Pune-348897",
+    "phone": "+91 74322 14248",
+    "source": "Google"
+  },
+  {
+    "business_name": "Choudhry Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "28, Bumb Path, Ranchi-233844",
+    "phone": "+91 86103 70999",
+    "source": "Google"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "51, Barad Nagar, Bhatpara-484956",
+    "phone": "+91 88947 77639",
+    "source": "Google"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 96, Wali Circle, Kirari Suleman Nagar 854622",
+    "phone": "+91 97446 43984",
+    "source": "Google"
+  },
+  {
+    "business_name": "Hemal's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "34/23, Roy Marg, Jodhpur-402915",
+    "phone": "+91 88830 86863",
+    "source": "Google"
+  },
+  {
+    "business_name": "Darpan Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "07, Kar Zila, Sikar-156713",
+    "phone": "+91 93131 54730",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tripathi Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 505, Kamdar Nagar, Jorhat 100392",
+    "phone": "+91 99429 16705",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "219, Kalla Ganj, Munger-082316",
+    "phone": "+91 74101 62449",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "756, Manne Nagar, Bihar Sharif 278629",
+    "phone": "+91 82077 48249",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "571, Ramesh, Hubli–Dharwad 343378",
+    "phone": "026-25366917",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 735, Sani Circle, Hapur 940533",
+    "phone": "+91 78468 87600",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 60, Gola Marg, Hindupur 993168",
+    "phone": "+91 96218 97768",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Mumbai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "35/07, Behl, Chittoor 306316",
+    "phone": "+91 91629 99272",
+    "source": "Google"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "96/350, Prabhakar Street, Sultan Pur Majra-158720",
+    "phone": "+91 85543 77627",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Pall Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "19/45, Devi Nagar, Ichalkaranji-215425",
+    "phone": "+91 85659 61298",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mumbai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "748, Kar Path, Tirupati 905450",
+    "phone": "+91 75417 58226",
+    "source": "Google"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "745, Sane Nagar, Begusarai 036555",
+    "phone": "+91 77869 29634",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 778, Naidu, Sangli-Miraj & Kupwad-002918",
+    "phone": "+91 84753 48280",
+    "source": "Google"
+  },
+  {
+    "business_name": "Parsa Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 811, Dave Path, Durg 477368",
+    "phone": "022-21130406",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Delhi Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 427, Naik Street, Jalandhar-155281",
+    "phone": "+91 88893 82415",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Wali Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "63/80, Agate, Ludhiana 855101",
+    "phone": "+91 86981 26185",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "42/84, Nanda Street, Farrukhabad-428574",
+    "phone": "+91 80107 73662",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "48, Mutti Zila, Munger 225674",
+    "phone": "+91 93596 26094",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 32, Ranganathan Ganj, Akola 698778",
+    "phone": "+91 83838 99691",
+    "source": "Google"
+  },
+  {
+    "business_name": "Mumbai Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 909, Kale Zila, Nadiad 804805",
+    "phone": "+91 74557 12510",
+    "source": "Google"
+  },
+  {
+    "business_name": "Madhavi's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "69/66, Kalita Circle, Hajipur-864050",
+    "phone": "+91 93410 88763",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sama Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "89/540, Mann Marg, Indore-050278",
+    "phone": "+91 80679 34146",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Daksha's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 85, Bhatt Path, Pallavaram-122186",
+    "phone": "+91 91494 41354",
+    "source": "Google"
+  },
+  {
+    "business_name": "Chana Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "78, Sinha Nagar, Karimnagar-485993",
+    "phone": "048-26261612",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Ishanvi's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 74, Grewal, Nellore 208872",
+    "phone": "+91 71229 22721",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 318, Sundaram Road, Saharanpur 520520",
+    "phone": "+91 94846 80636",
+    "source": "Google"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "16/015, Babu Chowk, Guna-045825",
+    "phone": "+91 73732 65464",
+    "source": "Google"
+  },
+  {
+    "business_name": "Daniel Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "11/723, Soni Zila, Hindupur-579585",
+    "phone": "+91 95872 54319",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 72, Tata Nagar, Tiruvottiyur 144242",
+    "phone": "+91 91270 32842",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "37/09, Sen Nagar, Anantapuram-435230",
+    "phone": "+91 84867 37334",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "20/45, Chanda Street, Jamalpur 137768",
+    "phone": "+91 75158 35809",
+    "source": "Google"
+  },
+  {
+    "business_name": "Kale Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "88/787, Oak Circle, Delhi 362637",
+    "phone": "+91 75487 71412",
+    "source": "Google"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "17/14, Thaman Zila, Chandrapur-143249",
+    "phone": "+91 73911 41122",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Daksh's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "97/773, Bansal Ganj, Ballia-540127",
+    "phone": "+91 91469 51045",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "00/651, Dar Ganj, Kollam 427535",
+    "phone": "029-21998214",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "05/681, Sodhi Nagar, Mathura-178641",
+    "phone": "+91 76997 38236",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "77/70, Chana Road, Maheshtala 505436",
+    "phone": "+91 95648 44330",
+    "source": "Google"
+  },
+  {
+    "business_name": "Delhi Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "09/24, Bhakta Chowk, Rewa 133593",
+    "phone": "+91 81777 59441",
+    "source": "Google"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 38, Deshpande Circle, Begusarai-173381",
+    "phone": "+91 91292 41147",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Owen's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "91/57, Kulkarni Street, Miryalaguda-027390",
+    "phone": "+91 78895 37842",
+    "source": "Google"
+  },
+  {
+    "business_name": "Urvi Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "63/651, Padmanabhan Chowk, Pali-154853",
+    "phone": "+91 98180 58741",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Kolkata Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 67, Rama Circle, Bihar Sharif-639819",
+    "phone": "+91 89027 76927",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "99/61, Madan Zila, Bangalore-872801",
+    "phone": "+91 82334 30673",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Sharaf Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 37, Pillai Circle, Madhyamgram-908445",
+    "phone": "+91 96264 45707",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "74, Badal Street, Khammam-888260",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kolkata Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "05/413, Wadhwa Circle, Firozabad-894564",
+    "phone": "033-20617784",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Basak Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 054, Lad Marg, Agra-347079",
+    "phone": "+91 93470 21912",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "80/452, Toor Zila, Jabalpur 093322",
+    "phone": "046-24877993",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 504, Ramanathan Zila, Kakinada 458197",
+    "phone": "072-24901402",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "89, Ghose Marg, Tinsukia 671681",
+    "phone": "+91 71041 58007",
+    "source": "Google"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 66, Nagar Road, Kozhikode 911874",
+    "phone": "+91 97027 42290",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "96, Kadakia Path, Danapur 519869",
+    "phone": "+91 92573 40479",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Khalsa Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "22, Balan Path, New Delhi 002552",
+    "phone": "045-27368609",
+    "source": "Google"
+  },
+  {
+    "business_name": "Mangal Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 965, Bath Ganj, Bhimavaram-439957",
+    "phone": "+91 96836 78353",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 73, Ranganathan Circle, Kolkata 455763",
+    "phone": "+91 89987 86123",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "66/546, Sarin Nagar, Anantapuram-495095",
+    "phone": "+91 80203 26869",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "43/214, D’Alia Circle, Sasaram 167438",
+    "phone": "+91 97461 86410",
+    "source": "Google"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 79, Comar Chowk, Dibrugarh-673833",
+    "phone": "+91 80321 51053",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 577, Patel Path, Ramgarh 237826",
+    "phone": "071-24318306",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 276, Grover Path, Tirupati 338288",
+    "phone": "+91 84581 61924",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dixit Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "76, Sarkar Marg, South Dumdum 842516",
+    "phone": "+91 72517 40319",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Chavvi Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 95, Brahmbhatt Circle, Indore-248628",
+    "phone": "+91 88784 66792",
+    "source": "Google"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 48, Kulkarni Nagar, Bangalore 111297",
+    "phone": "+91 77112 73530",
+    "source": "Google"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 801, Dugal, Haridwar 561732",
+    "phone": "066-23390607",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "91, Kunda Path, Patiala 206359",
+    "phone": "+91 92095 88893",
+    "source": "Google"
+  },
+  {
+    "business_name": "Ahmedabad Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "21/362, Sampath, Jamalpur 965840",
+    "phone": "+91 88049 44579",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 563, Mody Circle, Ramgarh 639009",
+    "phone": "+91 98072 46297",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Ekbal's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 044, Mohan Road, Vellore-290723",
+    "phone": "+91 96181 70506",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Hyderabad Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 78, Balakrishnan Ganj, Jorhat-836210",
+    "phone": "+91 95785 36596",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Yadav Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "54/62, Korpal Circle, Bathinda-547672",
+    "phone": "+91 76984 11327",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "08, Peri Ganj, Alappuzha-686983",
+    "phone": "025-29238911",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 81, Bhardwaj Nagar, Danapur-162213",
+    "phone": "+91 80591 19475",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dominic's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 791, Bir Marg, Silchar-499696",
+    "phone": "053-21671735",
+    "source": "Google"
+  },
+  {
+    "business_name": "Harinakshi Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "19/19, Oak, Jehanabad-803897",
+    "phone": "+91 81518 87577",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 37, Om, Shimla 354519",
+    "phone": "+91 92643 40132",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "57, Banik Circle, Kakinada 181145",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Parikh Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "98, Char Street, Bharatpur-239250",
+    "phone": "+91 72233 26965",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tap & Pipe Solutions",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "399, Mall Chowk, Proddatur-774314",
+    "phone": "+91 87974 60429",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "89, Wagle Street, Bhalswa Jahangir Pur-009216",
+    "phone": "069-26153830",
+    "source": "Google"
+  },
+  {
+    "business_name": "Chennai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "96/96, Wali Ganj, Jamalpur 254635",
+    "phone": "+91 80433 48904",
+    "source": "Google"
+  },
+  {
+    "business_name": "Lad Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 05, Narayan Ganj, Mehsana-514906",
+    "phone": "+91 96110 35477",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kanda Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 175, Dass Zila, Arrah 447507",
+    "phone": "+91 96898 88952",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Delhi Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 35, Issac Ganj, Bhubaneswar-106359",
+    "phone": "+91 84120 65565",
+    "source": "Google"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 00, Deo Ganj, Sagar 230447",
+    "phone": "+91 95518 76266",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "06/66, Rout Ganj, Lucknow 244417",
+    "phone": "+91 91663 17811",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "746, Khosla Chowk, Berhampur 029353",
+    "phone": "+91 96702 78938",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Delhi Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "85/50, Bumb Chowk, Bangalore-307887",
+    "phone": "+91 94461 93985",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Chennai Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "30/33, Raj Nagar, Bhusawal-597069",
+    "phone": "+91 85803 14291",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "04, Seshadri Chowk, Jammu-108425",
+    "phone": "056-27723375",
+    "source": "Google"
+  },
+  {
+    "business_name": "Saini Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "03/749, Bhandari Road, Bhatpara-225456",
+    "phone": "+91 81765 45615",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "23/551, Kapur Circle, Udaipur-752316",
+    "phone": "+91 71688 19602",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 473, Verma Ganj, Kurnool-893919",
+    "phone": "+91 74726 68071",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Pandit Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 29, Balasubramanian Chowk, Bhimavaram 398724",
+    "phone": "+91 70655 53557",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "16, Mittal Circle, Kanpur 995867",
+    "phone": "+91 74340 62642",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Prabhu Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "296, Bahri Road, Bidhannagar-406902",
+    "phone": "+91 74281 37126",
+    "source": "Google"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "01, Yogi Zila, Bangalore-715164",
+    "phone": "+91 86945 84953",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Mumbai Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "27/044, Walia Road, Thanjavur-970161",
+    "phone": "+91 84978 96156",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Robert Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "42/907, Mannan Chowk, Eluru 754912",
+    "phone": "+91 77018 12645",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "76/11, Guha Circle, Tadepalligudem 777335",
+    "phone": "+91 96636 16148",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "94, Barad Chowk, Kishanganj-628014",
+    "phone": "+91 71078 60177",
+    "source": "Google"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "142, Ramaswamy Circle, Malegaon 920150",
+    "phone": "+91 98313 32942",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Ahmedabad Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 392, Venkataraman Road, Mangalore 543669",
+    "phone": "+91 86241 75218",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sabharwal Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 41, Venkataraman Ganj, Patiala-562069",
+    "phone": "+91 97426 65749",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "93, Konda Street, Tadepalligudem-082875",
+    "phone": "+91 74047 55738",
+    "source": "Google"
+  },
+  {
+    "business_name": "Oliver's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "45, Kaul Zila, Raurkela Industrial Township 405809",
+    "phone": "+91 84323 33323",
+    "source": "Google"
+  },
+  {
+    "business_name": "Modi Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "",
+    "phone": "+91 96171 95025",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bhavya's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "51, Nayak Zila, Bhatpara 816648",
+    "phone": "075-29406226",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Ben Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 88, Sundaram Ganj, Sultan Pur Majra-066442",
+    "phone": "+91 92804 85293",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "82/08, Khosla Ganj, Kanpur 896325",
+    "phone": "+91 71748 10900",
+    "source": "Google"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "40, Mammen Chowk, Hapur-470576",
+    "phone": "074-21596865",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Krishnamurthy Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 768, Hayer Path, Ballia-916506",
+    "phone": "+91 81243 30255",
+    "source": "Google"
+  },
+  {
+    "business_name": "Patil Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "370, Sundaram Zila, Dharmavaram-647055",
+    "phone": "+91 79660 86591",
+    "source": "Google"
+  },
+  {
+    "business_name": "Deo Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "073, Datta Street, Bhagalpur-237688",
+    "phone": "+91 92074 38315",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "054, Srivastava Chowk, Katni-893036",
+    "phone": "+91 93788 37427",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Varughese Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "68/38, Mohanty Circle, Jaunpur-032091",
+    "phone": "+91 92628 23006",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mumbai Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "24/292, Gokhale, Kota-829262",
+    "phone": "+91 76137 71041",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kalla Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "121, Kashyap, Ahmednagar 932747",
+    "phone": "+91 82595 43615",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 889, Kota, Jhansi-457737",
+    "phone": "+91 99175 93013",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Mahajan Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 923, Andra Street, Meerut-602712",
+    "phone": "+91 89821 15280",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Suri Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "481, Patel Path, Sambalpur-277291",
+    "phone": "+91 96201 71458",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Jagrati Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 622, Lad Chowk, Howrah-790900",
+    "phone": "+91 70560 51444",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "71/92, Parekh, Proddatur 059947",
+    "phone": "036-24220593",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dr. Vidhi's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "86/05, Pai Street, North Dumdum-870209",
+    "phone": "+91 76534 57683",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "90/72, Pingle Zila, Aligarh-209983",
+    "phone": "+91 80908 71718",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "44, Srivastava Ganj, Pudukkottai-127893",
+    "phone": "+91 96092 85461",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dewan Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "38/75, Thakur Circle, Phusro-484948",
+    "phone": "027-22384668",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Chennai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 99, Raghavan Chowk, Kamarhati 706979",
+    "phone": "029-23482367",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 017, Atwal, Danapur 049954",
+    "phone": "+91 70499 36926",
+    "source": "Google"
+  },
+  {
+    "business_name": "Pune Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "729, Zacharia Path, Gandhinagar 395029",
+    "phone": "+91 76818 27104",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Matthew's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 81, Mutti, Tirupati 664038",
+    "phone": "",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Warjas's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 680, Chaudry Marg, Sri Ganganagar-795383",
+    "phone": "+91 80537 25934",
+    "source": "Google"
+  },
+  {
+    "business_name": "Karan Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "32/088, Tripathi Path, Fatehpur 385817",
+    "phone": "+91 95435 67127",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 334, Chada Street, Kavali-356092",
+    "phone": "+91 88588 29570",
+    "source": "Google"
+  },
+  {
+    "business_name": "Saanvi's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 635, Puri Circle, Nadiad 305201",
+    "phone": "+91 79327 58520",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sharma Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "99/49, Nagy Ganj, Raiganj 174701",
+    "phone": "+91 91052 66794",
+    "source": "Google"
+  },
+  {
+    "business_name": "Pathak Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 60, Bhargava Zila, Dibrugarh-241003",
+    "phone": "+91 92119 15406",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "57, Palla Zila, Jaunpur 350034",
+    "phone": "+91 72826 90277",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "638, Lala Nagar, Mirzapur 467972",
+    "phone": "054-24574682",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Hora Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "",
+    "phone": "+91 84117 39436",
+    "source": "Google"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "",
+    "phone": "071-23371714",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "00/287, Sur Path, Rampur-336246",
+    "phone": "+91 74940 93509",
+    "source": "Google"
+  },
+  {
+    "business_name": "Murty Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "11, Shan Road, Deoghar-240022",
+    "phone": "+91 70700 75828",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "53/05, Ben Marg, Pimpri-Chinchwad-346020",
+    "phone": "+91 72862 12686",
+    "source": "Google"
+  },
+  {
+    "business_name": "Guha Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "",
+    "phone": "+91 73936 37212",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dixit Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "70, Varughese Path, Amroha-257294",
+    "phone": "+91 76946 49142",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bengaluru Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "356, Keer Circle, Nagaon-243097",
+    "phone": "061-25739931",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "12/142, Issac, Sikar-606688",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 754, Memon Marg, Jhansi 109742",
+    "phone": "+91 93855 79083",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dr. Anvi's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "33, Mallick Marg, Udaipur 674781",
+    "phone": "+91 97764 40611",
+    "source": "Google"
+  },
+  {
+    "business_name": "Sharaf Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "91/904, Modi Zila, Gandhidham-656386",
+    "phone": "+91 70516 14772",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "04, Madan Zila, Nizamabad 217065",
+    "phone": "+91 82864 59679",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sahni Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 63, Chad Marg, Satara 170257",
+    "phone": "+91 75361 87125",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "62/78, Tak Chowk, Loni-119484",
+    "phone": "+91 89438 20732",
+    "source": "Google"
+  },
+  {
+    "business_name": "Sant Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "81, Mistry Zila, Akola 411414",
+    "phone": "+91 74291 87227",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "78, Singhal Chowk, Farrukhabad-274681",
+    "phone": "027-26532011",
+    "source": "Google"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "30/39, Karnik Street, Raiganj-399815",
+    "phone": "+91 96270 49531",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dr. Jagvi's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "474, Singhal, Sambhal-673506",
+    "phone": "+91 85420 25336",
+    "source": "Google"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 538, Shetty, Durg 595733",
+    "phone": "+91 98554 84738",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Agastya's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 71, Sur, Darbhanga 143962",
+    "phone": "030-21759158",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Devansh's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "21/637, Deshmukh Road, Motihari-391938",
+    "phone": "+91 84019 72241",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "",
+    "phone": "+91 95716 41424",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 96, Chad Zila, Guntur-938406",
+    "phone": "+91 84577 68677",
+    "source": "Google"
+  },
+  {
+    "business_name": "Ahmedabad Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "59, Tripathi Chowk, Hubli–Dharwad 308601",
+    "phone": "+91 76693 55015",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Delhi Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "40/931, Sathe Nagar, Amroha 841758",
+    "phone": "027-27823209",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "62/850, Gala Ganj, Ramagundam 288663",
+    "phone": "022-26432958",
+    "source": "Google"
+  },
+  {
+    "business_name": "Delhi Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "98/33, Shenoy Marg, Bilaspur 481255",
+    "phone": "+91 93108 94378",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Buch Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "30/712, Cherian Zila, Chennai-974128",
+    "phone": "+91 81869 19682",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bhatti Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "85, Lad Street, Khandwa-309776",
+    "phone": "+91 75916 54828",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "99/20, Dayal Path, Kulti-861112",
+    "phone": "+91 98213 16692",
+    "source": "Google"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "89/12, Manda Road, Vijayanagaram 508837",
+    "phone": "+91 88699 75240",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "44/58, Setty Ganj, Visakhapatnam 079019",
+    "phone": "+91 97811 33395",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 19, Mann Zila, Unnao 542304",
+    "phone": "+91 85220 43226",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 534, Maharaj Marg, Hapur 623653",
+    "phone": "043-22977644",
+    "source": "Google"
+  },
+  {
+    "business_name": "Konda Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 037, Korpal Road, Rajahmundry-940883",
+    "phone": "+91 82829 75063",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Sachdev Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "085, Khanna Chowk, Panvel-273335",
+    "phone": "031-25635754",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Abeer's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 60, Kapoor Nagar, Madanapalle 338478",
+    "phone": "+91 98589 57447",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "12/44, Khosla Zila, Gangtok-971125",
+    "phone": "+91 82984 64434",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "39/821, Naik, Jalgaon-965115",
+    "phone": "+91 81926 76602",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Oviya Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "39/531, Parmar Marg, Thane 810917",
+    "phone": "+91 96513 84024",
+    "source": "Google"
+  },
+  {
+    "business_name": "Udant Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 66, Shanker Circle, Bongaigaon-712008",
+    "phone": "+91 75251 22754",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "42/85, Uppal Zila, Visakhapatnam 481861",
+    "phone": "+91 72732 79628",
+    "source": "Google"
+  },
+  {
+    "business_name": "Chennai Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "794, Date Road, Siliguri 137574",
+    "phone": "+91 72838 67456",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kulkarni Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "617, Venkataraman Street, Proddatur-060707",
+    "phone": "+91 71477 55838",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "51/71, Kant, Srinagar 265671",
+    "phone": "+91 76144 86530",
+    "source": "Google"
+  },
+  {
+    "business_name": "Kashvi Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 38, Tara Circle, Mirzapur-913283",
+    "phone": "+91 83803 37290",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "508, Brahmbhatt Ganj, Mango 299588",
+    "phone": "+91 91601 16055",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "44, Mukherjee Zila, Jamalpur-911604",
+    "phone": "080-20597010",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "50/041, Reddy Zila, Chandrapur 886218",
+    "phone": "+91 84248 91897",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Hyderabad Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "68, Ranganathan Street, Tadepalligudem-070153",
+    "phone": "079-24887569",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 93, Pandya Zila, Tirunelveli-143036",
+    "phone": "+91 93031 57538",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 657, Sanghvi Nagar, New Delhi-278263",
+    "phone": "051-25189685",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "83/552, Kala Street, Gangtok-651552",
+    "phone": "043-25218330",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 32, Sachdev Ganj, Khandwa 430865",
+    "phone": "+91 82383 58242",
+    "source": "Google"
+  },
+  {
+    "business_name": "Upma Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "95/73, Kaul Ganj, Berhampur-638000",
+    "phone": "074-20992585",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "07/474, Morar Zila, Meerut-294820",
+    "phone": "+91 98925 94259",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Choudhry Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 87, Chahal Ganj, Bhusawal-725784",
+    "phone": "+91 83822 10155",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 546, Wali Marg, Madhyamgram 338386",
+    "phone": "+91 85635 55221",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Madhav Electric",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "20/47, Pau, Amroha-075378",
+    "phone": "+91 74601 22903",
+    "source": "Google"
+  },
+  {
+    "business_name": "Kolkata Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "922, Kannan Nagar, Pondicherry-866915",
+    "phone": "+91 86083 90230",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "89/22, Pau, Kottayam-378835",
+    "phone": "+91 72587 44223",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dr. Ranveer's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "49, Bedi Ganj, Kurnool-944928",
+    "phone": "034-29378268",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Prabhu Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "641, Randhawa Zila, Adoni-790621",
+    "phone": "+91 86807 16346",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bengaluru Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "64/53, Toor Zila, Thanjavur-881145",
+    "phone": "071-22906539",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kamala Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "22/79, Nazareth Path, Panchkula 323810",
+    "phone": "046-24862443",
+    "source": "Google"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "91/896, Khare Ganj, Haridwar-736256",
+    "phone": "+91 80388 83346",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "91/31, Chanda Path, Haldia 807172",
+    "phone": "+91 75016 51957",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 32, Lad Street, Satna 709929",
+    "phone": "072-29699628",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Zayyan Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 24, Raju Road, Darbhanga 128329",
+    "phone": "068-21349310",
+    "source": "Google"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 059, Vaidya Street, Ambarnath 625170",
+    "phone": "068-29779432",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "49/056, Chhabra Marg, Bellary 713174",
+    "phone": "+91 71674 16666",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Jhaveri Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 61, Som Street, Unnao 912133",
+    "phone": "+91 96707 23199",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 32, Chaudhuri Path, Durgapur 936607",
+    "phone": "+91 82758 82903",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 053, Srinivas Nagar, Rajpur Sonarpur 507418",
+    "phone": "070-29216546",
+    "source": "Google"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "08/34, Ramanathan Circle, Khammam-398378",
+    "phone": "026-28543669",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Halder Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "",
+    "phone": "+91 91098 92178",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tandoori Nights",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "",
+    "phone": "+91 79685 54348",
+    "source": "Google"
+  },
+  {
+    "business_name": "Orinder Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "701, Bail Road, Haldia-888245",
+    "phone": "+91 90860 24548",
+    "source": "Google"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "24/450, Kanda Circle, Noida-887575",
+    "phone": "+91 97346 98036",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "44/08, Bhardwaj Ganj, Nizamabad 941494",
+    "phone": "+91 75997 44850",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 443, Warrior Ganj, Madurai-952731",
+    "phone": "+91 76364 23943",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 96, Chopra, Begusarai 781087",
+    "phone": "+91 94875 68247",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Tap & Pipe Solutions",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 179, Raj Zila, Yamunanagar 758135",
+    "phone": "+91 99332 47493",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "106, Purohit Circle, Avadi 667194",
+    "phone": "+91 81549 25103",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "60/670, Murty Nagar, Udupi-364717",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Rushil Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "431, Choudhary Ganj, Sikar 495617",
+    "phone": "+91 94529 18718",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Chennai Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 840, Upadhyay Road, Guntur 297815",
+    "phone": "",
+    "source": "Google"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "090, Kuruvilla Nagar, Bhavnagar 499720",
+    "phone": "+91 76188 92643",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "",
+    "phone": "+91 74289 43173",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 14, Sundaram Path, Rewa 721698",
+    "phone": "063-26223161",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "32/391, Seth, Nellore-297941",
+    "phone": "+91 84982 44297",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Grewal Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "87/939, Sachdev Marg, Uluberia 902502",
+    "phone": "062-22345748",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Goswami Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 84, Saxena Chowk, Chandrapur 019429",
+    "phone": "041-23352061",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "62/46, Keer Street, Mango-081788",
+    "phone": "033-23877693",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bengaluru Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "183, Ghose Circle, Bihar Sharif-765871",
+    "phone": "+91 89618 69973",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 95, Lad, Guwahati-896045",
+    "phone": "080-27509248",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Jacob's Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 689, Mane Path, Yamunanagar-676030",
+    "phone": "+91 86553 27685",
+    "source": "Google"
+  },
+  {
+    "business_name": "De Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "11/33, Dara Zila, Guntur-273460",
+    "phone": "+91 86249 96363",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dube Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 976, Bajaj Circle, Sambalpur-069109",
+    "phone": "+91 87290 83787",
+    "source": "Google"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "42/630, Thaker Zila, Delhi-280911",
+    "phone": "+91 77035 13559",
+    "source": "Google"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 978, Gopal Nagar, Bhiwandi-638193",
+    "phone": "+91 85460 24951",
+    "source": "Google"
+  },
+  {
+    "business_name": "Tap & Pipe Solutions",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "17/52, Chand Circle, Sambhal 637313",
+    "phone": "+91 83585 23693",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "88, Saran, Mango 267818",
+    "phone": "+91 99805 42728",
+    "source": "Google"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "69, Dhawan Path, Kishanganj 679407",
+    "phone": "+91 89685 50421",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Mistry Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 122, Bhargava Path, Allahabad-492498",
+    "phone": "+91 72823 76271",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "77/154, Hayre Zila, Panvel 984952",
+    "phone": "+91 89383 58646",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Loke Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "56/88, Nazareth Circle, Gandhidham 862968",
+    "phone": "+91 83800 37568",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Nagi Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 520, Mital Street, Burhanpur 741025",
+    "phone": "+91 86229 23842",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Deep Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 214, Sant Road, Tirunelveli 315479",
+    "phone": "+91 79588 60177",
+    "source": "Google"
+  },
+  {
+    "business_name": "Mumbai Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "00/508, Narula Chowk, Dindigul-078685",
+    "phone": "",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "34/51, Raju Marg, Udupi 166018",
+    "phone": "+91 71422 36133",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Halder Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "431, Bala Marg, Khammam 572763",
+    "phone": "044-27088803",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "74/742, Agarwal, Serampore-091228",
+    "phone": "027-24758198",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Thaman Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 008, Warrior, Guwahati 886766",
+    "phone": "+91 77127 73198",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Jain Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "300, Verma Ganj, Kavali-109228",
+    "phone": "060-25943976",
+    "source": "Google"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "12/372, Halder Path, Tinsukia 363162",
+    "phone": "+91 97512 84072",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Jhalak Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "57/21, Goda Nagar, Burhanpur-817757",
+    "phone": "036-28203873",
+    "source": "Google"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "47, Kalla, Naihati 789773",
+    "phone": "063-28643251",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 04, Saini Road, Madurai-780974",
+    "phone": "+91 90906 90119",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Arogya Medical Centre",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 806, Swaminathan Street, Jaunpur 021222",
+    "phone": "+91 95746 39560",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "93/01, Krishnan Marg, Yamunanagar 441767",
+    "phone": "+91 99440 54888",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bhargava Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "80, Swaminathan Path, Mirzapur 003566",
+    "phone": "+91 75140 42585",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Rachita's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 67, Nadig Road, Sagar 329953",
+    "phone": "+91 89614 72644",
+    "source": "Google"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "985, Murthy Zila, Naihati-884765",
+    "phone": "+91 99298 88587",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bengaluru Fitness Club",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 54, Samra Path, Vijayanagaram 023924",
+    "phone": "039-28940086",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Ganguly Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "02/636, Ray Path, Nizamabad-903467",
+    "phone": "+91 93201 64080",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Yahvi's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "54/322, Khanna Path, Dibrugarh 164318",
+    "phone": "+91 77514 61259",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "74/578, Tella Circle, Imphal 168207",
+    "phone": "+91 71865 85988",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Verma Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 72, Shenoy Ganj, Solapur 600269",
+    "phone": "+91 86103 16064",
+    "source": "Google"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "12/13, Kamdar, Sonipat-349117",
+    "phone": "+91 91796 62069",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "22, Mody Path, Bikaner 051242",
+    "phone": "060-29647874",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "67, Kapadia Street, North Dumdum 696973",
+    "phone": "+91 79713 82191",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "750, Kohli Circle, Baranagar-094315",
+    "phone": "+91 99382 62823",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "37/743, Krishnan Nagar, Madurai 377879",
+    "phone": "+91 93184 60071",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "391, Pai Ganj, Jorhat 059773",
+    "phone": "044-26229129",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "",
+    "phone": "+91 89154 63375",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Pooja's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "",
+    "phone": "+91 87705 11880",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Flavors of India",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "238, Mani Marg, Surat 915077",
+    "phone": "+91 91409 59293",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Ekaja's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "98/588, Goda Nagar, Nashik 657535",
+    "phone": "+91 98707 89187",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kamala's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "",
+    "phone": "+91 96511 98125",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 937, Joshi Path, Dewas-867487",
+    "phone": "+91 85546 96118",
+    "source": "Google"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "24/84, Mohanty Road, Surendranagar Dudhrej 363051",
+    "phone": "+91 82360 71713",
+    "source": "Google"
+  },
+  {
+    "business_name": "Yatan Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "41/08, Tata Zila, Dhule-504676",
+    "phone": "+91 71017 60824",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "88/277, Halder Road, Giridih-128479",
+    "phone": "+91 78557 56880",
+    "source": "Google"
+  },
+  {
+    "business_name": "Hema's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 76, Sundaram Zila, Guntakal 071327",
+    "phone": "+91 89016 83037",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "04/49, Chokshi Road, Tumkur-088485",
+    "phone": "+91 71914 88720",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "388, Ben Street, Kamarhati-801535",
+    "phone": "+91 89983 33201",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dash Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "867, Barman, Jamalpur-420461",
+    "phone": "+91 70952 76245",
+    "source": "Google"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "38/598, Seshadri, Aligarh-202148",
+    "phone": "+91 83660 53318",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "90/74, Brahmbhatt Zila, Moradabad 249571",
+    "phone": "+91 70798 28922",
+    "source": "Google"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "21/407, Bawa Road, Nandyal 057025",
+    "phone": "+91 71102 32437",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Widisha's Bistro",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "",
+    "phone": "+91 76977 44732",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Hema's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "00/76, Bhargava Chowk, Kota-099912",
+    "phone": "+91 87028 73174",
+    "source": "Google"
+  },
+  {
+    "business_name": "Pau Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 99, Dugal Marg, Muzaffarpur 632632",
+    "phone": "+91 98075 95358",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Hegde Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "70/830, Ganesh, Jehanabad 732621",
+    "phone": "",
+    "source": "Google"
+  },
+  {
+    "business_name": "Rajagopal Coaching Classes",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 344, Guha Road, Varanasi-020811",
+    "phone": "+91 72020 99723",
+    "source": "Google"
+  },
+  {
+    "business_name": "Comar Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "10/122, Chokshi, Kakinada 588690",
+    "phone": "+91 82212 30561",
+    "source": "Google"
+  },
+  {
+    "business_name": "Gold's Fitness Hub",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "73, Kulkarni Circle, Rohtak-020785",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 390, Gandhi Zila, Tirupati-179359",
+    "phone": "+91 88623 10655",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bengaluru Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "23/18, Ganguly Chowk, Bhilai 799626",
+    "phone": "052-27189145",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Arora Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "71/34, Sama Marg, Singrauli 665772",
+    "phone": "+91 98339 96642",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bhasin Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "07/171, Jani Chowk, Warangal-045349",
+    "phone": "+91 93809 63126",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Gill Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 00, Dass Nagar, Deoghar-740849",
+    "phone": "+91 96196 26090",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dugar Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 677, Murty Street, Agra 770976",
+    "phone": "027-23376252",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Chennai Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "02, Madan Zila, Jalgaon 213818",
+    "phone": "023-23225450",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Dr. Varsha's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "58, Mishra Street, Indore 641577",
+    "phone": "+91 94245 65959",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "885, Korpal Path, Ajmer 235964",
+    "phone": "+91 86681 34416",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "H.No. 346, Pillay Path, Sambhal-502550",
+    "phone": "+91 76796 10472",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Shine Beauty Parlour",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "92, Ganguly Marg, Hindupur-620528",
+    "phone": "+91 70283 34511",
+    "source": "Google"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 957, Andra Path, Rourkela 297155",
+    "phone": "+91 78731 64084",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Dalbir Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 03, Korpal Road, Mehsana 842647",
+    "phone": "+91 89304 38274",
+    "source": "Google"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 227, Jha Nagar, Surendranagar Dudhrej 598463",
+    "phone": "+91 87446 83991",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mumbai Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "92/77, Khurana Road, Purnia 302070",
+    "phone": "+91 90908 96186",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bengaluru Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "H.No. 431, Dugal Path, Jalna-833162",
+    "phone": "042-22913979",
+    "source": "Google"
+  },
+  {
+    "business_name": "Abdul Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "50/91, Vala Road, Ramgarh-605280",
+    "phone": "+91 78629 40033",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Mahajan Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "59/358, Suresh Marg, Katihar-621899",
+    "phone": "+91 75318 93660",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "",
+    "phone": "+91 82606 69236",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "42/67, Tank Path, Vadodara 590548",
+    "phone": "033-24314138",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "85/435, Peri, Tiruvottiyur 072800",
+    "phone": "+91 83384 88712",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Royal Darbar",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "49/53, Kamdar, Gandhinagar 658266",
+    "phone": "+91 83706 14601",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "",
+    "phone": "058-20896965",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dr. Ucchal's Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "69, Mody Ganj, Tiruppur 300087",
+    "phone": "+91 97794 59356",
+    "source": "Google"
+  },
+  {
+    "business_name": "Wadhwa Hair Studio",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "42/023, Bedi Nagar, Mathura-097555",
+    "phone": "+91 97706 30389",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "75/32, Gour Zila, Hyderabad 449929",
+    "phone": "031-26106251",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "31, Venkatesh Chowk, Pudukkottai-303510",
+    "phone": "+91 82738 95121",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Abhimanyu Mart",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "",
+    "phone": "+91 71166 98197",
+    "source": "Google"
+  },
+  {
+    "business_name": "Deep Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "49, Sundaram Marg, Lucknow-119424",
+    "phone": "+91 79971 71571",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "QuickFix Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "22, Lalla Circle, Ranchi 796125",
+    "phone": "+91 96006 29237",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Iron & Sweat Gym",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "68, Dora, Belgaum 518275",
+    "phone": "",
+    "source": "Google"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "622, Pau Road, Serampore-639189",
+    "phone": "+91 72409 95222",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Nagi Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "00/947, Verma Road, Alappuzha 184773",
+    "phone": "+91 91189 34633",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Delhi Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "636, Comar Path, Jalna 559217",
+    "phone": "+91 70439 79213",
+    "source": "Google"
+  },
+  {
+    "business_name": "FitLife Studio",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "06/324, Thaker Zila, Nandyal-289264",
+    "phone": "",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bright Future Academy",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 021, Brar Zila, Bhimavaram 280887",
+    "phone": "+91 81838 43130",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Glow & Style",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "30/231, Balan Marg, Sultan Pur Majra-069724",
+    "phone": "+91 80652 36334",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Alpha Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 254, Goyal Ganj, Malda-015855",
+    "phone": "+91 96889 88059",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Elite Tutorials",
+    "category": "tutors",
+    "city": "Kolkata",
+    "address": "H.No. 242, Kaul Chowk, Berhampore 634593",
+    "phone": "+91 78267 19259",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Bakshi Kitchen",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "67/69, Prakash Zila, Vadodara 924354",
+    "phone": "+91 82768 88549",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Chennai Health Center",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "99/519, Dyal Ganj, Bhilwara-622545",
+    "phone": "+91 96287 18773",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kale Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "35, Chana Nagar, Panvel-930159",
+    "phone": "+91 95152 82396",
+    "source": "Google"
+  },
+  {
+    "business_name": "FlowRight Plumber Services",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "94, Samra Zila, Amroha-068974",
+    "phone": "+91 99485 66846",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "96, Dora Path, Kota-017511",
+    "phone": "+91 91267 60263",
+    "source": "Google"
+  },
+  {
+    "business_name": "Scissors & Comb",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "06/02, Dugar, Latur-654668",
+    "phone": "+91 88702 55527",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 88, Radhakrishnan Road, Gandhidham 227656",
+    "phone": "+91 79319 50864",
+    "source": "Google"
+  },
+  {
+    "business_name": "Care & Cure Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "H.No. 90, Shankar, Proddatur 312998",
+    "phone": "053-28141392",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "48/08, Bassi Nagar, Ghaziabad-074464",
+    "phone": "+91 79936 30246",
+    "source": "Google"
+  },
+  {
+    "business_name": "Delhi Spice",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "29, Sanghvi Marg, Kolhapur 237692",
+    "phone": "+91 97957 66918",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Nanda Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 31, Pandey Ganj, South Dumdum-395288",
+    "phone": "+91 90627 83918",
+    "source": "Google"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "80/73, Reddy Marg, Visakhapatnam 020583",
+    "phone": "+91 84703 63261",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Kaul Plumbers",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 39, Ben Ganj, Saharsa-261881",
+    "phone": "+91 85310 41654",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Chennai Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "99/31, Khare Zila, Erode-280069",
+    "phone": "+91 97920 88822",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Yoshita Plumbing",
+    "category": "plumbers",
+    "city": "Ahmedabad",
+    "address": "H.No. 882, Nagi Circle, Ambala-377708",
+    "phone": "+91 75112 94605",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Sparky Electric Services",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "",
+    "phone": "+91 85803 23834",
+    "source": "Google"
+  },
+  {
+    "business_name": "Delhi Supermarket",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 230, Chada Marg, Howrah-526827",
+    "phone": "+91 93407 89549",
+    "source": "Google"
+  },
+  {
+    "business_name": "Bright Light Electricals",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "H.No. 225, Dugal Nagar, Ludhiana 969471",
+    "phone": "+91 74462 24020",
+    "source": "Google"
+  },
+  {
+    "business_name": "Volt Power Solutions",
+    "category": "electricians",
+    "city": "Bengaluru",
+    "address": "",
+    "phone": "+91 84026 49301",
+    "source": "Google"
+  },
+  {
+    "business_name": "Daily Needs Grocery",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 286, Chacko Marg, Ulhasnagar 983474",
+    "phone": "072-25689341",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 48, Ravi, Pallavaram-106147",
+    "phone": "+91 75453 95469",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Magar Gym & Fitness",
+    "category": "gyms",
+    "city": "Pune",
+    "address": "754, Mistry Marg, Ujjain-295567",
+    "phone": "072-21719548",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "17/56, Kara Ganj, Sasaram 239690",
+    "phone": "",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Apna Bazar",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "595, Solanki Path, Kharagpur-811635",
+    "phone": "045-24965362",
+    "source": "Justdial"
+  },
+  {
+    "business_name": "Upma's Unisex Salon",
+    "category": "salons",
+    "city": "Delhi",
+    "address": "H.No. 047, Borra, Satara 566086",
+    "phone": "+91 70884 71936",
+    "source": "Google"
+  },
+  {
+    "business_name": "Dubey Clinic",
+    "category": "clinics",
+    "city": "Hyderabad",
+    "address": "93/65, Lal Marg, Solapur 176828",
+    "phone": "+91 97369 29628",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "Barad Kirana Store",
+    "category": "grocery stores",
+    "city": "Chennai",
+    "address": "H.No. 06, Talwar Chowk, Tiruchirappalli 326698",
+    "phone": "041-25009631",
+    "source": "Sulekha"
+  },
+  {
+    "business_name": "The Golden Curry",
+    "category": "restaurants",
+    "city": "Mumbai",
+    "address": "87/870, Johal, Tadipatri 031598",
+    "phone": "+91 80066 73865",
+    "source": "Sulekha"
+  }
+]

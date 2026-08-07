@@ -4,3 +4,5 @@ mysql-connector-python
 pydantic
 python-dotenv
 faker
+requests
+beautifulsoup4
