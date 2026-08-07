@@ -1,122 +1,85 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import React, { useState, useEffect } from 'react';
+import CityChart from './components/CityChart';
+import CategoryChart from './components/CategoryChart';
+import SourceChart from './components/SourceChart';
+import { getCityWise, getCategoryWise, getSourceWise } from './api/api';
+import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [stats, setStats] = useState({
+    totalListings: 0,
+    citiesCount: 0,
+    categoriesCount: 0,
+    topSource: 'Loading...'
+  });
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const loadOverviewStats = async () => {
+      try {
+        const [cities, categories, sources] = await Promise.all([
+          getCityWise(),
+          getCategoryWise(),
+          getSourceWise()
+        ]);
+        
+        const total = cities.reduce((acc, curr) => acc + curr.count, 0);
+        const top = sources.length > 0 ? sources[0].label : 'N/A';
+        
+        setStats({
+          totalListings: total,
+          citiesCount: cities.length,
+          categoriesCount: categories.length,
+          topSource: top
+        });
+      } catch (err) {
+        console.error("Error loading overview stats:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    
+    loadOverviewStats();
+  }, []);
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
+    <div className="dashboard-container">
+      {/* Header */}
+      <header className="dashboard-header">
+        <h1 className="dashboard-title">Business Listings Dashboard</h1>
+        <p className="dashboard-subtitle">Real-time marketplace insights, city statistics, and aggregation analytics</p>
+      </header>
 
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
+      {/* Overview Stats Cards */}
+      <section className="stats-overview">
+        <div className="stat-card">
+          <span className="stat-label">Total Listings</span>
+          <span className="stat-val">{loading ? "..." : stats.totalListings.toLocaleString()}</span>
         </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
+        <div className="stat-card">
+          <span className="stat-label">Cities Covered</span>
+          <span className="stat-val">{loading ? "..." : stats.citiesCount}</span>
+        </div>
+        <div className="stat-card">
+          <span className="stat-label">Business Categories</span>
+          <span className="stat-val">{loading ? "..." : stats.categoriesCount}</span>
+        </div>
+        <div className="stat-card">
+          <span className="stat-label">Primary Source</span>
+          <span className="stat-val" style={{ color: stats.topSource.includes('Google') ? '#60a5fa' : '#fb923c' }}>
+            {loading ? "..." : stats.topSource}
+          </span>
         </div>
       </section>
 
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+      {/* Main Charts Layout */}
+      <main className="charts-grid">
+        <CityChart />
+        <CategoryChart />
+        <SourceChart />
+      </main>
+    </div>
+  );
 }
 
-export default App
+export default App;
