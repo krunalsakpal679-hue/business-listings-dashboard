@@ -4,6 +4,12 @@ The **Business Listings Dashboard** is a full-stack, data-driven web application
 
 ---
 
+## 🎥 Demo Video Walkthrough
+You can watch the live demonstration of the project, including the database configuration, FastAPI Swagger checks, React dashboard walkthrough, and recovery mechanics here:
+👉 **[Google Drive Demo Video Link](https://drive.google.com/file/d/1rY4AThK-RQUYPjrZso2q5qk0ncsV8RSf/view?usp=sharing)**
+
+---
+
 ## Tech Stack
 *   **Frontend**: React.js (Vite, JavaScript), Axios (API requests), Recharts (data visualization).
 *   **Backend**: FastAPI (Python), Uvicorn (ASGI server), Pydantic (data contracts), `python-dotenv` (config).
